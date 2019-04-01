@@ -1,3 +1,7 @@
+# Important
+
+This module does not actually authenticate via LDAP. This is only a mock service to simulate authentication for a composer rest server.
+
 # passport-ldapauth
 
 [![Build Status](https://travis-ci.org/vesse/passport-ldapauth.svg)](https://travis-ci.org/vesse/passport-ldapauth)
